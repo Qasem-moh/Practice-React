@@ -1,18 +1,13 @@
-const http = require('http')
-const server = http.createServer((req, res) => {
-    if (req.url === '/') {
-        res.statusCode = 200
-        res.write('Hello World')
-    } else if (req.url === '/api/courses') {
-        res.statusCode = 200
-        res.setHeader('Content-Type', 'application/json')
-        res.write(JSON.stringify([1, 2, 3]))
-    } else {
-        res.statusCode = 404
-        res.write('Not Found')
-    }
-    res.end()
-})
-server.listen(5000, () => {
-    console.log('Server is running on port 5000')
-})
+const express = require('express');
+const app = express();
+
+app.all('/', (req, res, next) => {
+    res.send('Hello World');
+    next();
+});
+app.all('/about', (req, res) => {
+    res.send('About');
+});
+app.listen(5000, () => {
+    console.log('server is running on port 5000');
+});
