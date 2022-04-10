@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="93792046-e849-42a0-8482-85ae263a3fab" name="Changes" comment="node">
+      <change afterPath="$PROJECT_DIR$/nodejs/bodayParser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/components/classComponents/ClassEffect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/components/classComponents/HookClass.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/components/classComponents/willDidMount.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/components/functionComponents/EffectHook.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/components/Hook.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/components/functionComponents/Hook.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="27UPZCm6zz0vms1hJIqQr22lMCf" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="16.14.2" />
+    <property name="javascript.nodejs.core.library.typings.version" value="16.11.26" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/test/src/components/classComponents" />
+      <recent name="$PROJECT_DIR$/test/src/components/functionComponents" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93792046-e849-42a0-8482-85ae263a3fab" name="Changes" comment="" />
+      <created>1649371745850</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649371745850</updated>
+      <workItem from="1649371747367" duration="4122000" />
+      <workItem from="1649499180327" duration="2433000" />
+      <workItem from="1649506069164" duration="5982000" />
+      <workItem from="1649577425737" duration="1724000" />
+    </task>
+    <task id="LOCAL-00001" summary="node">
+      <created>1649500931928</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1649500931928</updated>
+    </task>
+    <task id="LOCAL-00002" summary="node">
+      <created>1649539323235</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1649539323235</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="node" />
+    <option name="LAST_COMMIT_MESSAGE" value="node" />
+  </component>
+</project>
