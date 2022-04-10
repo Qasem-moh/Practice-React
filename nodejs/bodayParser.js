@@ -9,6 +9,7 @@ app.get('/', (req, res, next) => {
 
 app.post('/form', bodyParser, (req, res, next) => {
     console.log(req.body.user);
+    res.send('<h1>' + req.body.user + '</h1>');
     res.end()
 });
 
