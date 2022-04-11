@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93792046-e849-42a0-8482-85ae263a3fab" name="Changes" comment="node">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nodejs/queryParams.js" beforeDir="false" afterPath="$PROJECT_DIR$/nodejs/queryParams.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodejs/workWithFiles.js" beforeDir="false" afterPath="$PROJECT_DIR$/nodejs/workWithFiles.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +67,7 @@
       <workItem from="1649371747367" duration="4122000" />
       <workItem from="1649499180327" duration="2433000" />
       <workItem from="1649506069164" duration="5982000" />
-      <workItem from="1649577425737" duration="7024000" />
+      <workItem from="1649577425737" duration="7360000" />
     </task>
     <task id="LOCAL-00001" summary="node">
       <created>1649500931928</created>
@@ -126,7 +125,21 @@
       <option name="project" value="LOCAL" />
       <updated>1649716922427</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="node">
+      <created>1649717063709</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1649717063709</updated>
+    </task>
+    <task id="LOCAL-00010" summary="node">
+      <created>1649717213506</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1649717213506</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
