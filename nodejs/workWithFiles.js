@@ -4,7 +4,7 @@ const app=express()
 
 
 app.get('/',(req,res)=>{
-    res.send('Hello World')
+    res.send(__dirname)
 })
 app.get('about',(req,res)=>{
     res.send('About')
