@@ -9,7 +9,7 @@ app.get('/',(req,res,nexr)=>{
 app.get('/about',(req,res,nexr)=>{
     res.send('id: '+req.query.id+'<br/>' +'name: '+req.query.name)
 })
-// app.get('/about',(req,res,nexr)=>{
+// app.get('/about',(req,res,next)=>{
 //     res.send("Welcome in page about")
 // })
 // app.get('/profile/:name',(req,res,next)=>{
