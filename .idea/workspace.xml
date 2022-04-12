@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93792046-e849-42a0-8482-85ae263a3fab" name="Changes" comment="node">
+      <change afterPath="$PROJECT_DIR$/nodejs/assets/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nodejs/js/alert.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nodejs/views/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodejs/workWithFiles.js" beforeDir="false" afterPath="$PROJECT_DIR$/nodejs/workWithFiles.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +19,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -45,6 +50,7 @@
     <property name="javascript.nodejs.core.library.configured.version" value="16.14.2" />
     <property name="javascript.nodejs.core.library.typings.version" value="16.11.26" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -74,6 +80,7 @@
       <workItem from="1649577425737" duration="7772000" />
       <workItem from="1649717703512" duration="25000" />
       <workItem from="1649717746267" duration="2490000" />
+      <workItem from="1649745150812" duration="3334000" />
     </task>
     <task id="LOCAL-00001" summary="node">
       <created>1649500931928</created>
